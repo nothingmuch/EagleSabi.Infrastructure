@@ -2,8 +2,8 @@
 using System.Collections.Generic;
 using System.Threading;
 using System.Threading.Tasks;
-using EagleSabi.Common.Records.Common;
 using EagleSabi.Infrastructure.Common.Helpers;
+using EagleSabi.Infrastructure.Common.Records.Common;
 using EagleSabi.Infrastructure.Common.Records.EventSourcing;
 using EagleSabi.Infrastructure.Tests._Common.Exceptions;
 using EagleSabi.Infrastructure.Tests.Integration._Helpers;

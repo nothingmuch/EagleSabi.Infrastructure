@@ -2,6 +2,7 @@
 using System.Collections.Immutable;
 using EagleSabi.Infrastructure.Common.Abstractions.EventSourcing.Models;
 using EagleSabi.Infrastructure.Common.Abstractions.EventSourcing.Modules;
+using EagleSabi.Infrastructure.Common.Exceptions;
 using EagleSabi.Infrastructure.Common.Helpers;
 using EagleSabi.Infrastructure.Common.Records.EventSourcing;
 using EagleSabi.Infrastructure.EventSourcing.Records;
